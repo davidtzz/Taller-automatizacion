@@ -1,8 +1,8 @@
-\*\*Taller automatización\*\*
+\*\* Taller automatización \*\*
 
 
 
-\*\*Autores:\*\*Sebastián Amaya Pérez, Jhon Alejandro García Pareja y David Felipe Tovar Zurita.
+\*\* Autores: \*\* Sebastián Amaya Pérez, Jhon Alejandro García Pareja y David Felipe Tovar Zurita.
 
 
 
@@ -10,7 +10,7 @@ Instrucciones de uso del taller de automatización.
 
 
 
-\*\*1\\. Preparación del proyecto:\*\*
+\*\* 1\\. Preparación del proyecto: \*\*
 
 
 
@@ -18,7 +18,7 @@ Asegúrate de tener instalado Java y Gradle (preferiblemente 17 y 8.6, respectiv
 
 
 
-\*\*2\\. Ejecutar las pruebas:\*\*
+\*\* 2\\. Ejecutar las pruebas: \*\*
 
 
 
@@ -30,7 +30,7 @@ Abre una terminal en la carpeta raíz del proyecto y ejecuta el siguiente comand
 
 
 
-\*\*3\\. Ver resultados:\*\*
+\*\* 3\\. Ver resultados: \*\*
 
 
 
